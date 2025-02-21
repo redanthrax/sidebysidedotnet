@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: ASP.NetMVC Testing, Tenant: Allixo Technologies LLC (allixo.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
